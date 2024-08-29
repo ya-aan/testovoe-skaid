@@ -1,0 +1,5 @@
+[
+  {"firstName": "Иван", "lastName": "Иванов", "age": 25, "email": "ivan@example.com", "photo": ""},
+  {"firstName": "Мария", "lastName": "Петрова", "age": 19, "email": "maria@example.com", "photo": ""},
+  {"firstName": "Алексей", "lastName": "Сидоров", "age": 16, "email": "alexey@example.com", "photo": ""}
+]
